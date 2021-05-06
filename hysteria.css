@@ -276,3 +276,13 @@ ul{
     font-size: 13px;
     transition:0.5s;
 }
+.footer hr{
+    border:none;
+    background: #1a5822;
+    height:1px ;
+    margin:20px 0;
+
+}
+.copyright{
+    margin-top: 20px;
+}
